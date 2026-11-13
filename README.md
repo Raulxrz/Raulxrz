@@ -25,7 +25,7 @@ Aquí iré subiendo prácticas de clase, scripts y proyectos personales. ¡Écha
  
 ## Estadísticas
  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Raulxrz&show_icons=true&theme=tokyonight)
  
 ## Contacto
  
