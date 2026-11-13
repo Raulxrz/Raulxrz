@@ -22,11 +22,7 @@ Estudiante del **Grado Medio de Sistemas Microinformáticos y Redes (SMR)** en M
 ## Proyectos
  
 Aquí iré subiendo prácticas de clase, scripts y proyectos personales. ¡Échales un vistazo a mis repositorios!
- 
-## Estadísticas
- 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Raulxrz&show_icons=true&theme=tokyonight)
- 
+  
 ## Contacto
  
 ¿Quieres hablar de tecnología o colaborar en algo? ¡Escríbeme!
